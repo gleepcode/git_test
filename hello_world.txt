@@ -1,0 +1,2 @@
+Hello to the world!
+I am a git_test file.
